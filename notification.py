@@ -1,5 +1,5 @@
 # Importando biblioteca e módulo
-from windl0toast import ToastNotifier
+from win10toast import ToastNotifier
 
 # instânciando módulo em uma variavel
 toast = ToastNotifier()
